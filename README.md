@@ -9,4 +9,4 @@ The challenge is coped on D-wave using a BQM. In this notebook instead the probl
 
 The previous implementation was written for readability, this comes at the cost of speed.
 
-In this version we wiilbe skipping symbolic construction altogether, working directly with variable labels and a QM object.
+In this version we will be skipping symbolic construction altogether, working directly with variable labels and a QM object.
